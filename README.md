@@ -4,7 +4,7 @@
 
 ## Model 01
 
-### 1) Select model 01
+### 1) Select model 01 (3 Layers with 1 Convolution layer)
 
 <img width="644" alt="01_model01_def" src="https://user-images.githubusercontent.com/54882655/83639277-6e02ea00-a5e5-11ea-8e42-61acc2899a56.png">
 <img width="146" alt="01_model01_실행" src="https://user-images.githubusercontent.com/54882655/83639289-70fdda80-a5e5-11ea-83ea-a34a73fa3574.png">
@@ -28,7 +28,7 @@
 
 ## Model 02
 
-### 1) Select Model 02
+### 1) Select Model 02(5 Layers with 2 Convolution layers)
 
 <img width="607" alt="02_model02_def" src="https://user-images.githubusercontent.com/54882655/83640229-cf778880-a5e6-11ea-84c4-3b7821eafae9.png">
 <img width="134" alt="02_model02_실행" src="https://user-images.githubusercontent.com/54882655/83640227-cf778880-a5e6-11ea-86ab-fc34ccf3876e.png">
@@ -51,7 +51,7 @@
 
 
 ## Model 03
-### 1) Select Model 03
+### 1) Select Model 03(7 Layers with 4 Convolution layer)
 
 <img width="657" alt="03_model03_def실행" src="https://user-images.githubusercontent.com/54882655/83643045-8d504600-a5ea-11ea-8af2-a73fabc90494.png">
 
