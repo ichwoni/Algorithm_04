@@ -51,7 +51,7 @@
 
 
 ## Model 03
-### 1) Select Model 03(7 Layers with 4 Convolution layer)
+### 1) Select Model 03(7 Layers with 4 Convolution layers)
 
 <img width="657" alt="03_model03_def실행" src="https://user-images.githubusercontent.com/54882655/83643045-8d504600-a5ea-11ea-8af2-a73fabc90494.png">
 
