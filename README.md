@@ -53,10 +53,21 @@
 ## Model 03
 ### 1) Select Model 03
 
+<img width="657" alt="03_model03_def실행" src="https://user-images.githubusercontent.com/54882655/83643045-8d504600-a5ea-11ea-8af2-a73fabc90494.png">
+
 ### 2) Training with training loss
+
+<img width="565" alt="03_model03_train" src="https://user-images.githubusercontent.com/54882655/83643054-8f1a0980-a5ea-11ea-8919-e31433a76725.png">
 
 ### 3) Test Accuracy
 
+<img width="452" alt="03_model03_testaccuracy" src="https://user-images.githubusercontent.com/54882655/83643053-8e817300-a5ea-11ea-946b-c48c3b013b30.png">
+
 ### 4) Images and corresponding probability predicted right
 
+<img width="514" alt="03_model03_right" src="https://user-images.githubusercontent.com/54882655/83643051-8de8dc80-a5ea-11ea-93f2-4ae3ada95455.png">
+
 ### 5) Images and corresponding probability predicted wrong
+
+<img width="737" alt="03_model03_wrong" src="https://user-images.githubusercontent.com/54882655/83643056-8f1a0980-a5ea-11ea-8d5a-84bb7341e5a7.png">
+
